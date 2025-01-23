@@ -1,0 +1,40 @@
+name = "Alice"
+print(name)
+
+def greet():
+    print("Hello, World!")
+
+import math
+result = math.sqrt(16)
+print(result)
+
+
+age = "25"
+
+print("In 5 years, you will be " , int(age) + int(5))
+
+count = 1
+
+while count > 0:  # Modify the condition to stop the loop.
+
+    print("Counting:", count)
+    count = count - 1
+
+    
+
+
+numbers = [1, 2, 3]
+
+print(numbers[2])
+
+
+num = 10
+
+den = 0
+
+    print(num / den)  # Handle the division by zero error.
+except ZeroDivisionError
+print(Undefined)
+
+
+    
